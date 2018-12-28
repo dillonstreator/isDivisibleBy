@@ -1,6 +1,6 @@
 {
   "name": "isdivisibleby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks divisibility of two lists of numbers",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
     "divisible",
     "divisibility",
     "divide",
+    "division",
     "math",
-    "quotients"
+    "quotients",
+    "arithmetic"
   ],
   "author": "Dillon Streator",
   "license": "ISC",
