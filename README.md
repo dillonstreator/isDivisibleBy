@@ -1,10 +1,7 @@
 # isDivisibleBy
 
-> Checks divisibility of one or many numbers with 0 dependencies. 
+> Checks divisibility of one or many numbers with 0 dependencies.
 
-<!-- [![NPM Version][npm-image]][npm-url]
-[![Linux Build][travis-image]][travis-url]
-[![Test Coverage][coveralls-image]][coveralls-url] -->
 
 ## Install
 
@@ -15,7 +12,7 @@ npm i --save isdivisibleby
 ## Usage
 
 ```javascript
-const isDivisibleBy = require('is-divisible-by');
+const isDivisibleBy = require('isdivisibleby');
 
 //isDivisibleBy(...divisors)(...dividends);
 
