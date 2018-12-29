@@ -1,6 +1,6 @@
 {
   "name": "isdivisibleby",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Checks divisibility of two lists of numbers",
   "main": "index.js",
   "scripts": {
